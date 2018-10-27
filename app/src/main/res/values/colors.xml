@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Created by omrobbie.
+  ~ Copyright (c) 2018. All rights reserved.
+  ~ Last modified 9/27/17 9:28 PM.
+  -->
+
+<resources>
+    <color name="colorPrimary">#333</color>
+    <color name="colorPrimaryLight">#444</color>
+    <color name="colorPrimaryDark">#222</color>
+
+    <color name="colorAccent">#EF4581</color>
+    <color name="colorAccentLight">#FF7BB0</color>
+    <color name="colorAccentDark">#B70055</color>
+</resources>

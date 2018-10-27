@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Film Terbaru</string>
+    <string name="hint_search_text">Cari judul film</string>
+    <string name="title_refresh_menu">Segarkan data</string>
+
+    <string name="label_release_date">Tanggal rilis</string>
+    <string name="label_vote">Kepuasan:</string>
+    <string name="label_genres">Genre Film</string>
+    <string name="label_overview">Sinopsis</string>
+    <string name="label_production_details">Tentang Pembuatan</string>
+    <string name="label_belongs">Milik Koleksi</string>
+    <string name="label_budget">Modal</string>
+    <string name="label_revenue">Pendapatan</string>
+    <string name="label_companies">Pemrakarsa</string>
+    <string name="label_countries">Negara</string>
+    <string name="label_title_long">Judul film terlalu panjang untuk ditampilkan </string>
+    <string name="label_overv_long">Sinopsis terlalu panjang untuk ditampilkan </string>
+    <string name="failed">Gagal mengambil data, cek koneksi internet!</string>
+
+    <string name="found1">Ditemukan</string>
+    <string name="found2">sedang tayang</string>
+</resources>

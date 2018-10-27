@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Now Playing Film</string>
+    <string name="hint_search_text">Find by title</string>
+    <string name="title_refresh_menu">Refresh Movie List</string>
+
+    <string name="label_release_date">Release Date</string>
+    <string name="label_vote">Vote Average:</string>
+    <string name="label_genres">Movie Genres</string>
+    <string name="label_overview">Overview</string>
+    <string name="label_production_details">Production Details</string>
+    <string name="label_belongs">Belongs To Collection</string>
+    <string name="label_budget">Budget</string>
+    <string name="label_revenue">Revenue</string>
+    <string name="label_companies">Companies</string>
+    <string name="label_countries">Countries</string>
+    <string name="label_title_long">This is very very very long movie title that you can read </string>
+    <string name="label_overv_long">This is very very very long movie overview that you can read </string>
+    <string name="failed">Failed to load data. Please check your Internet connections</string>
+
+    <string name="found1">Found</string>
+    <string name="found2">now played film</string>
+</resources>

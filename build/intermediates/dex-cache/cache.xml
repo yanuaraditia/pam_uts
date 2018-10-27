@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yanuar Aditia\.android\build-cache\d225a871ccf57942bea317216a0f053527c5592f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Yanuar Aditia\Downloads\Compressed\tg\CatalogueMovie-master\app\build\intermediates\pre-dexed\debug\classes_ebd09fd30fa5d2d8d28bb24282089b0435f2845c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yanuar Aditia\.android\build-cache\2f03aa8201ef0cce658915f20dad8df1f800cb5a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Yanuar Aditia\Downloads\Compressed\tg\CatalogueMovie-master\app\build\intermediates\pre-dexed\debug\classes_21c5cfed6743a3591f4f5dbf6d9998b52f2a39c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yanuar Aditia\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.3.0\bcacde6a8ccedcc56c127403d26b76072fe6214d\retrofit-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bcacde6a8ccedcc56c127403d26b76072fe6214d">
+        <dex dex="C:\Users\Yanuar Aditia\Downloads\Compressed\tg\CatalogueMovie-master\app\build\intermediates\pre-dexed\debug\retrofit-2.3.0_c7383949ade50c2ae9cbdc9a5ec952bfc5e1d7d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yanuar Aditia\.android\build-cache\84cf5407000f951691481074b0a35dce0c13e91a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="C:\Users\Yanuar Aditia\Downloads\Compressed\tg\CatalogueMovie-master\app\build\intermediates\pre-dexed\debug\classes_66b1508a103429e5f7d10800995531ccbd4cb7e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yanuar Aditia\.android\build-cache\dec500961401ac06b05f53286a4974eff009537e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="C:\Users\Yanuar Aditia\Downloads\Compressed\tg\CatalogueMovie-master\app\build\intermediates\pre-dexed\debug\classes_3b9983625235e93b2600e25d17c58a513bc5b235.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yanuar Aditia\.android\build-cache\4006ef262d8bbe5a60c0f840b04162e3cbb1e1d0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\Yanuar Aditia\Downloads\Compressed\tg\CatalogueMovie-master\app\build\intermediates\pre-dexed\debug\classes_dadcbe75b025c8a769f814260f4ac33cf463642b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yanuar Aditia\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\annotations\4.0.0\f80192e6fd828d41c7da6f3552b0bef5d89cb26e\annotations-4.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f80192e6fd828d41c7da6f3552b0bef5d89cb26e">
+        <dex dex="C:\Users\Yanuar Aditia\Downloads\Compressed\tg\CatalogueMovie-master\app\build\intermediates\pre-dexed\debug\annotations-4.0.0_d9f9928a4a696dd184f423d85199dbbffa2a6410.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yanuar Aditia\.android\build-cache\3b856b1478da8909a977d1939cd6ac9406c3e90c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Yanuar Aditia\Downloads\Compressed\tg\CatalogueMovie-master\app\build\intermediates\pre-dexed\debug\classes_cd94f003059374d6ef0944111ff2a2cf5cb0a0c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yanuar Aditia\.android\build-cache\5784dca07c117b33c15cfa79888841bdfef91615\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Yanuar Aditia\Downloads\Compressed\tg\CatalogueMovie-master\app\build\intermediates\pre-dexed\debug\classes_e540868d3f6b2ea00621106846e05efae5142578.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yanuar Aditia\.android\build-cache\814830a954a30389e21c79c962c0fb6594f4bbe7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Yanuar Aditia\Downloads\Compressed\tg\CatalogueMovie-master\app\build\intermediates\pre-dexed\debug\classes_1e4f2fee4a9d6ff550b32a95e934c9a39eeaf837.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yanuar Aditia\.android\build-cache\d8138626bff5536d81d42358a8b806841591e607\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d0517ab16518ddfe89059f49418b2e9f6d5b20aa">
+        <dex dex="C:\Users\Yanuar Aditia\Downloads\Compressed\tg\CatalogueMovie-master\app\build\intermediates\pre-dexed\debug\classes_02bf68bc717cb5b6e4f3f2e6f907314c944aad52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yanuar Aditia\.android\build-cache\28f34d4fadcf80700e856343beb8e1c9e8e493c7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Yanuar Aditia\Downloads\Compressed\tg\CatalogueMovie-master\app\build\intermediates\pre-dexed\debug\classes_4a5bb1db031921526627d8a1bb67695258b0bace.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yanuar Aditia\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.8.1\bc373fb6bc7bca3035041b924f158fd2b946ee8d\butterknife-annotations-8.8.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bc373fb6bc7bca3035041b924f158fd2b946ee8d">
+        <dex dex="C:\Users\Yanuar Aditia\Downloads\Compressed\tg\CatalogueMovie-master\app\build\intermediates\pre-dexed\debug\butterknife-annotations-8.8.1_4c86f5590cd72aca5fb6a274e5925d2bb9809c23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yanuar Aditia\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Yanuar Aditia\Downloads\Compressed\tg\CatalogueMovie-master\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_0845aaaeb8c3de912012c15975d8a25e692cdaad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yanuar Aditia\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\gifdecoder\4.0.0\47c487cc4e64e6ab127a517669ca9a7b49f8c61d\gifdecoder-4.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47c487cc4e64e6ab127a517669ca9a7b49f8c61d">
+        <dex dex="C:\Users\Yanuar Aditia\Downloads\Compressed\tg\CatalogueMovie-master\app\build\intermediates\pre-dexed\debug\gifdecoder-4.0.0_a565031061747edf27767f73a0225f891ef59777.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yanuar Aditia\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.8.0\5a11f020cce2d11eb71ba916700600e18c4547e7\okhttp-3.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5a11f020cce2d11eb71ba916700600e18c4547e7">
+        <dex dex="C:\Users\Yanuar Aditia\Downloads\Compressed\tg\CatalogueMovie-master\app\build\intermediates\pre-dexed\debug\okhttp-3.8.0_7e0bb936616e17ccc396a0b08383eb434cb73562.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yanuar Aditia\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.3.0\9e09011e9767bb76b5e27c9b8223476b93b14631\converter-gson-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9e09011e9767bb76b5e27c9b8223476b93b14631">
+        <dex dex="C:\Users\Yanuar Aditia\Downloads\Compressed\tg\CatalogueMovie-master\app\build\intermediates\pre-dexed\debug\converter-gson-2.3.0_f4ee6e4daddf774f2f40950bab5a2c134bbdf4f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yanuar Aditia\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Yanuar Aditia\Downloads\Compressed\tg\CatalogueMovie-master\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_1094a925b033ff0734a621a068506d5e73325102.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yanuar Aditia\.android\build-cache\896fed273cebc48b5f6fcf50fb4f69f1fb87eefc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\Yanuar Aditia\Downloads\Compressed\tg\CatalogueMovie-master\app\build\intermediates\pre-dexed\debug\classes_1380a3785e2f9996763b8e80f1fe354ab07d19da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yanuar Aditia\.android\build-cache\f7b1707572a12b76e7d77ee6b8ab75c2e28847c0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0dfc12e4aacf514346ea866560c99807d032bc48">
+        <dex dex="C:\Users\Yanuar Aditia\Downloads\Compressed\tg\CatalogueMovie-master\app\build\intermediates\pre-dexed\debug\classes_a0ae5e9f217d10001edb3f1285d58faa5d31b5dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yanuar Aditia\.android\build-cache\426f7cc990734296d398fe9f749ef0a5793c75f8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Yanuar Aditia\Downloads\Compressed\tg\CatalogueMovie-master\app\build\intermediates\pre-dexed\debug\classes_2487dc15bbe3569235e6f60007426f3b7ddb9dbc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yanuar Aditia\.android\build-cache\0b34e4cbd98c02ddc5de19d5aec7ed00abb67447\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6a2bcb61342d09fe9acf55c9daf63961c8866cc0">
+        <dex dex="C:\Users\Yanuar Aditia\Downloads\Compressed\tg\CatalogueMovie-master\app\build\intermediates\pre-dexed\debug\classes_44eee4585dfe8a416b902ba4b9f16631055071ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yanuar Aditia\.android\build-cache\48f092ef249472665b2a5589f4a296b48d3287db\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ad7706f8bb4a985656a8d2142f74021c8b0e03d8">
+        <dex dex="C:\Users\Yanuar Aditia\Downloads\Compressed\tg\CatalogueMovie-master\app\build\intermediates\pre-dexed\debug\classes_19c074d4a3f02c6f0e38a3bc4d50f017f413e2f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yanuar Aditia\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Users\Yanuar Aditia\Downloads\Compressed\tg\CatalogueMovie-master\app\build\intermediates\pre-dexed\debug\gson-2.7_621170db0014506cf40f2d23ba6b133edfe9d343.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yanuar Aditia\.android\build-cache\78fb142ca12b27a1ed329035f453daac488e61ca\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Yanuar Aditia\Downloads\Compressed\tg\CatalogueMovie-master\app\build\intermediates\pre-dexed\debug\classes_2e8b092c09a8e96a5130f0385098d4109d12e7bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yanuar Aditia\.android\build-cache\5e0b1e09a865dd128fb04b2fcb19f9cba868a44f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Yanuar Aditia\Downloads\Compressed\tg\CatalogueMovie-master\app\build\intermediates\pre-dexed\debug\classes_167a986c187408e3a9cb625eda5a59124949d0f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yanuar Aditia\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\disklrucache\4.0.0\d88059003509074dd59fa226c822724bcf5ec0ca\disklrucache-4.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d88059003509074dd59fa226c822724bcf5ec0ca">
+        <dex dex="C:\Users\Yanuar Aditia\Downloads\Compressed\tg\CatalogueMovie-master\app\build\intermediates\pre-dexed\debug\disklrucache-4.0.0_442fa20dd9082c6c54b15243ff789aefa72e5031.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yanuar Aditia\.android\build-cache\db4a327a19960044034ec3255fdcdffd81da01e9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
+        <dex dex="C:\Users\Yanuar Aditia\Downloads\Compressed\tg\CatalogueMovie-master\app\build\intermediates\pre-dexed\debug\classes_d903424e4a3a5171dc707aee853bbefba131b971.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yanuar Aditia\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\4.0.0\dff931af436f0a2815d0109ab2258bbce2d6275d\glide-4.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="dff931af436f0a2815d0109ab2258bbce2d6275d">
+        <dex dex="C:\Users\Yanuar Aditia\Downloads\Compressed\tg\CatalogueMovie-master\app\build\intermediates\pre-dexed\debug\glide-4.0.0_df641f6c58dc8c105e4d1530159e3261c7c14719.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yanuar Aditia\.android\build-cache\2481e301cc5ab65a3a06abce96bbdc1ebeb0de08\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Yanuar Aditia\Downloads\Compressed\tg\CatalogueMovie-master\app\build\intermediates\pre-dexed\debug\classes_ca8fabcf8c5d9530a96199356ba7420d00254ae4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yanuar Aditia\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="C:\Users\Yanuar Aditia\Downloads\Compressed\tg\CatalogueMovie-master\app\build\intermediates\pre-dexed\debug\okio-1.13.0_f0d26a41fcec8c852d2bff523fbf5f5eeda3b23e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yanuar Aditia\.android\build-cache\ccc9d7176fc092d5e9e6cf4e3c7b8ffeaa7fb100\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\Yanuar Aditia\Downloads\Compressed\tg\CatalogueMovie-master\app\build\intermediates\pre-dexed\debug\classes_fc54c946bfec1e9816b8f8cddc63ceb6d088362c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yanuar Aditia\.android\build-cache\165e621e7526f49e246759a911648c0f1ddafd2d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="C:\Users\Yanuar Aditia\Downloads\Compressed\tg\CatalogueMovie-master\app\build\intermediates\pre-dexed\debug\classes_ca0acca840eb579c573f54cabd5db2f6218d8edf.jar" />
+    </item>
+
+</items>
