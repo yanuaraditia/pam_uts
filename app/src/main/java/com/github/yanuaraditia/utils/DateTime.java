@@ -1,19 +1,9 @@
-/*
- * Created by omrobbie.
- * Copyright (c) 2018. All rights reserved.
- * Last modified 9/27/17 3:00 PM.
- */
-
 package com.github.yanuaraditia.utils;
 
 import java.text.DateFormat;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
-
-/**
- * Created by omrobbie on 27/09/2017.
- */
 
 public class DateTime {
 

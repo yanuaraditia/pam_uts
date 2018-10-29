@@ -1,9 +1,3 @@
-/*
- * Created by omrobbie.
- * Copyright (c) 2018. All rights reserved.
- * Last modified 9/27/17 4:24 PM.
- */
-
 package com.github.yanuaraditia.utils;
 
 import android.annotation.TargetApi;
@@ -16,11 +10,6 @@ import android.util.AttributeSet;
 import android.widget.TextView;
 
 import com.github.yanuaraditia.R;
-
-/**
- * Created by omrobbie on 27/09/2017.
- */
-
 public class CustomTextView extends TextView {
 
     public CustomTextView(Context context) {

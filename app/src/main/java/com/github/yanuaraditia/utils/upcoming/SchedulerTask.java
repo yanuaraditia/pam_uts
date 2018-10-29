@@ -11,11 +11,6 @@ import android.content.Context;
 import com.google.android.gms.gcm.GcmNetworkManager;
 import com.google.android.gms.gcm.PeriodicTask;
 import com.google.android.gms.gcm.Task;
-
-/**
- * Created by omrobbie on 03/10/2017.
- */
-
 public class SchedulerTask {
     private GcmNetworkManager mGcmNetworkManager;
 

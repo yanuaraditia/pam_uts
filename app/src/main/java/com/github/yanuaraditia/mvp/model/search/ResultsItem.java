@@ -1,9 +1,3 @@
-/*
- * Created by omrobbie.
- * Copyright (c) 2018. All rights reserved.
- * Last modified 9/27/17 9:25 AM.
- */
-
 package com.github.yanuaraditia.mvp.model.search;
 
 import com.google.gson.annotations.SerializedName;

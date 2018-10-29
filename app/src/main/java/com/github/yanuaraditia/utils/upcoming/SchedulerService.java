@@ -1,9 +1,3 @@
-/*
- * Created by omrobbie.
- * Copyright (c) 2018. All rights reserved.
- * Last modified 10/4/17 11:56 AM.
- */
-
 package com.github.yanuaraditia.utils.upcoming;
 
 import android.app.NotificationManager;
